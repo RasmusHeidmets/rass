@@ -29,7 +29,7 @@ Console.WriteLine("tere, palun sisesta esimene arv: ");
 arv1 = int.Parse(Console.ReadLine());
 Console.WriteLine("tere, palun sisesta teine arv: ");
 arv2 = int.Parse(Console.ReadLine());
-Console.WriteLine("missugust tehet soovid teha? kirjuta kas: + - / *");
+Console.WriteLine("missugust tehet soovid teha? kirjuta kas: + - / * ^");
 string tehtetüüp = Console.ReadLine();
 int tehe = 0;
 
@@ -49,7 +49,10 @@ if (tehtetüüp == "*" /*tingimus siia*/)
 {
     tehe = arv1 * arv2;
 }
-
+if (tehtetüüp == "^" /*tingimus siia*/)
+{
+    tehe = (int)Math.Pow(arv1,arv2);
+}
 Console.WriteLine($"{tehtetüüp}tehte tulemus: {tehe}");
 
 //Console.WriteLine("tere, palun sisesta esimene lahutatav: ");
