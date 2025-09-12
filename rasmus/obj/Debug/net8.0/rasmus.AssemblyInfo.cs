@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rasmus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a49abb2dc09da86f305e89c4dfbd7bf6991429")]
 [assembly: System.Reflection.AssemblyProductAttribute("rasmus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rasmus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
