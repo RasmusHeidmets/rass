@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\ConsoleApp1\\s\u00F5ned \u00FCl\\s\u00F5ned \u00FCl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B7F762-6AB0-4179-8012-A233F40A7006}|s\u00F5ned \u00FCl.csproj|c:\\users\\opilane\\source\\repos\\rass\\rasmus\\consoleapp1\\s\u00F5ned \u00FCl\\s\u00F5ned \u00FCl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B7F762-6AB0-4179-8012-A233F40A7006}|s\u00F5ned \u00FCl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\ConsoleApp1\\s\u00F5ned \u00FCl\\s\u00F5ned \u00FCl\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\ConsoleApp1\\s\u00F5ned \u00FCl\\s\u00F5ned \u00FCl\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:44:12.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

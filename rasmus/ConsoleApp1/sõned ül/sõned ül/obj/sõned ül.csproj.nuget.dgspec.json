@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\rasmus.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\ConsoleApp1\\sõned ül\\sõned ül\\sõned ül.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\rasmus.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\ConsoleApp1\\sõned ül\\sõned ül\\sõned ül.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\rasmus.csproj",
-        "projectName": "rasmus",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\rasmus.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\ConsoleApp1\\sõned ül\\sõned ül\\sõned ül.csproj",
+        "projectName": "sõned ül",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\ConsoleApp1\\sõned ül\\sõned ül\\sõned ül.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\rass\\rasmus\\ConsoleApp1\\sõned ül\\sõned ül\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
